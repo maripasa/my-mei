@@ -1,2 +1,3 @@
-fastapi[standart]
+fastapi[standard]
 sqlmodel
+psycopg[binary]
